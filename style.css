@@ -1,0 +1,101 @@
+.li {
+    font-size: 13px;
+    width: 162px;
+  }
+
+  .btn1 {
+    font-size: 13px;
+    width: 60px;
+    height: 30px;
+    margin-left: 20px;
+  }
+
+  .btn2 {
+    font-size: 13px;
+    width: 60px;
+    height: 30px;
+    margin-left: 20px;
+    background-color: #2d2f31;
+    color: white;
+  }
+
+  .btn3 {
+    margin-left: 20px;
+  }
+
+  .carusel1 {
+    background-image: url(./img/img-3.jpg);
+    height: 400px;
+  }
+
+  .carusel1 .card {
+    font-size: 20px;
+  }
+
+  .carusel2 {
+    background-image: url(./img/img-2.jpg);
+    height: 400px;
+  }
+
+  .ul_li li {
+    display: inline-block;
+  }
+
+  .company {
+    text-align: center;
+  }
+
+  .section2 {
+    height: 250px;
+    background-color: rgb(231, 231, 231);
+  }
+  html,
+  body {
+    position: relative;
+    height: 100%;
+  }
+
+  body {
+    background: white;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+
+  swiper-container {
+    width: 100%;
+    height: 350px;
+  }
+
+  swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .p1{
+    color: rgb(145, 144, 144);
+    font-size: 10px;
+  }
+
+  .ul2{
+    border: 0px solid black ;
+  }
+
+  .carusel3{
+    border: 1px solid black;
+    width: 1400px;
+    height: 353px;
+  }
