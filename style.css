@@ -134,12 +134,12 @@ body {
 
 .youSwiper {
   width: 100%;
-  height: 353px;
+  height: 400px;
 }
 
 swiper-slide {
   text-align: center;
-  font-size: 18px;
+  font-size: 14px;
   background: #fff;
   display: flex;
   justify-content: center;
@@ -151,4 +151,8 @@ swiper-slide img {
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.p4{
+  font-size: 20px;
 }
