@@ -1,101 +1,154 @@
 .li {
-    font-size: 13px;
-    width: 162px;
-  }
+  font-size: 13px;
+  width: 162px;
+}
 
-  .btn1 {
-    font-size: 13px;
-    width: 60px;
-    height: 30px;
-    margin-left: 20px;
-  }
+.btn1 {
+  font-size: 13px;
+  width: 60px;
+  height: 30px;
+  margin-left: 20px;
+}
 
-  .btn2 {
-    font-size: 13px;
-    width: 60px;
-    height: 30px;
-    margin-left: 20px;
-    background-color: #2d2f31;
-    color: white;
-  }
+.btn2 {
+  font-size: 13px;
+  width: 60px;
+  height: 30px;
+  margin-left: 20px;
+  background-color: #2d2f31;
+  color: white;
+}
 
-  .btn3 {
-    margin-left: 20px;
-  }
+.btn3 {
+  margin-left: 20px;
+}
 
-  .carusel1 {
-    background-image: url(./img/img-3.jpg);
-    height: 400px;
-  }
+.carusel1 {
+  background-image: url(./img/img-3.jpg);
+  height: 400px;
+}
 
-  .carusel1 .card {
-    font-size: 20px;
-  }
+.carusel1 .card {
+  font-size: 20px;
+}
 
-  .carusel2 {
-    background-image: url(./img/img-2.jpg);
-    height: 400px;
-  }
+.carusel2 {
+  background-image: url(./img/img-2.jpg);
+  height: 400px;
+}
 
-  .ul_li li {
-    display: inline-block;
-  }
+.ul_li li {
+  display: inline-block;
+}
 
-  .company {
-    text-align: center;
-  }
+.company {
+  text-align: center;
+}
 
-  .section2 {
-    height: 250px;
-    background-color: rgb(231, 231, 231);
-  }
-  html,
-  body {
-    position: relative;
-    height: 100%;
-  }
+.section2 {
+  height: 250px;
+  background-color: rgb(231, 231, 231);
+}
 
-  body {
-    background: white;
-    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    color: #000;
-    margin: 0;
-    padding: 0;
-  }
+html,
+body {
+  position: relative;
+  height: 100%;
+}
 
-  swiper-container {
-    width: 100%;
-    height: 350px;
-  }
+body {
+  background: white;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
 
-  swiper-slide {
-    text-align: center;
-    font-size: 18px;
-    background: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
+swiper-container {
+  width: 1200px;
+  height: 350px;
+}
 
-  swiper-slide img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  .p1{
-    color: rgb(145, 144, 144);
-    font-size: 10px;
-  }
+swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
-  .ul2{
-    border: 0px solid black ;
-  }
+swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 
-  .carusel3{
-    border: 1px solid black;
-    width: 1400px;
-    height: 353px;
-  }
+.p1 {
+  color: rgb(145, 144, 144);
+  font-size: 10px;
+}
+
+.ul2 {
+  border: 0px solid black;
+  border-top: 0px;
+}
+
+.ul2 a {
+  text-decoration: none;
+  color: black;
+}
+
+.carusel3 {
+  border: 1px solid black;
+  width: 1400px;
+  height: 570px;
+}
+
+.carusel3 button{
+  width: 120px;
+  height: 40px;
+  margin-left: 100px;
+}
+
+.span1{
+  font-weight: bold;
+}
+
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  background: white;
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.youSwiper {
+  width: 100%;
+  height: 353px;
+}
+
+swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
