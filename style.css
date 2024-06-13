@@ -133,20 +133,22 @@ body {
 }
 
 .youSwiper {
-  width: 100%;
+  width: 980px;
   height: 400px;
 }
 
-swiper-slide {
+.youSwiper swiper-slide {
   text-align: center;
   font-size: 14px;
   background: #fff;
   display: flex;
   justify-content: center;
   align-items: center;
+  border: 1px #2d2f31 solid ;
+  text-align: center;
 }
 
-swiper-slide img {
+.youSwiper swiper-slide img {
   display: block;
   width: 100%;
   height: 100%;
@@ -154,5 +156,42 @@ swiper-slide img {
 }
 
 .p4{
-  font-size: 20px;
+  font-size: 75px;
+  margin-top: -350px;
+  margin-left: -290px;
+  height: 50px;
+}
+
+.swiper1{
+  font-size: 15px;
+  width: 300px;
+}
+.swiper_div .WA{
+  margin-bottom: -200px;
+  margin-left: -230px;
+  background-color: #2d2f31;
+  color: white;
+  border-radius: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px
+}
+
+.swiper_div{
+  margin-top: 265px;
+  border-bottom: 1px solid rgb(158, 157, 157);
+  padding:0px 10px 0px 10px ;
+}
+
+.p5{
+  margin-left: -120px;
+  margin-top: -20px;
+}
+
+.swiper_div2{
+  margin-top: 300px;
+  width: 500px;
+  margin-left: -500px;
+  mar
 }
