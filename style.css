@@ -101,13 +101,13 @@ swiper-slide img {
   color: black;
 }
 
-.carusel3 {
+.carusel3 .carusel4{
   border: 1px solid black;
   width: 1400px;
   height: 570px;
 }
 
-.carusel3 button{
+.carusel3  .carusel4 button{
   width: 120px;
   height: 40px;
   margin-left: 100px;
@@ -144,8 +144,9 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1px #2d2f31 solid ;
+  border: 1px #6a6b6b solid ;
   text-align: center;
+
 }
 
 .youSwiper swiper-slide img {
@@ -175,7 +176,8 @@ body {
   padding-top: 15px;
   padding-bottom: 15px;
   padding-left: 15px;
-  padding-right: 15px
+  padding-right: 15px;
+  text-align: center;
 }
 
 .swiper_div{
@@ -193,5 +195,22 @@ body {
   margin-top: 300px;
   width: 500px;
   margin-left: -500px;
-  mar
+}
+
+.div1{
+  background-color: purple;
+  width: 50px;
+  height: 50px;
+  margin-left: 185px;
+  margin-top: 40px;
+  display: inline-block;
+  border-radius: 50px;
+  text-align: center;
+}
+
+.p6{
+  font-size: 13px;
+  color: purple;
+  float: right;
+  margin-top: 45px;
 }
