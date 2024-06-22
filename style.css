@@ -214,3 +214,42 @@ body {
   float: right;
   margin-top: 45px;
 }
+
+.button2{
+  width: 11rem;
+  height: 3rem;
+}
+
+.udemy_1 p{
+  display: inline-block;
+  color: rgb(71, 71, 247);
+  font-size: 25px;
+  margin-top: 40px;
+}
+
+.button3{
+  width: 8rem;
+  height: 3rem;
+}
+
+.udemy_1 li{
+  font-size: 18px;
+}
+
+.udemy_2{
+  float: right;
+  margin-top: -370px;
+  margin-right: 300px;
+}
+
+.img img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  margin-left: 330px;
+}
+
+.img{
+  margin-top: -200px;
+  margin-right: 270px;
+}
