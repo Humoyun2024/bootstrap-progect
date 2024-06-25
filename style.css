@@ -253,3 +253,48 @@ body {
   margin-top: -200px;
   margin-right: 270px;
 }
+
+.name{
+  margin-right: -340px;
+}
+
+.section3 .a1{
+  margin-left: 850px;
+}
+
+.row_col1{
+  margin-top: 150px;
+  width: 800px;
+}
+
+.row_col1 button{
+  width: 200px;
+  height: 40px;
+  background-color: #000;
+  color: #fff;
+  text-shadow: #000000;
+}
+
+.modl .col{
+  gap: 2px;
+  line-height: 40px;
+}
+
+.btn3{
+  margin-top: -150px;
+  background-color: #6a6b6b;
+  border: 1px solid wheat;
+}
+
+.btn3:hover{
+  background-color: #6a6b6b;
+  border: 1px solid whitesmoke;
+}
+
+footer{
+  background-color: #6a6b6b;
+}
+
+.row1 .col , footer p{
+  color: white;
+}
